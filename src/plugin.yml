@@ -1,0 +1,10 @@
+name: BasicScoreboardGames
+main: goeiecool9999.basicscoreboardgames.Games
+version: 1
+
+commands:
+   snake:
+      description: Play snake!.
+      usage: /snake
+      permission: basicscoreboardgames.snake
+      permission-message: You may not play snake >:(
